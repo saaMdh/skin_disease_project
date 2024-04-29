@@ -1,1 +1,1 @@
-# skin_disease_project
+# skin_disease
